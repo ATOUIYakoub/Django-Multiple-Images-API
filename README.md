@@ -14,10 +14,10 @@ This Django app serves as an API for handling multiple image uploads.
 
 ## API Endpoints
 
-- **Upload Image**: POST `/api/images/upload/`
-- **List Images**: GET `/api/images/`
-- **Retrieve Image**: GET `/api/images/{image_id}/`
-- **Delete Image**: DELETE `/api/images/{image_id}/`
+- **Upload Image**: POST `/images/upload/`
+- **List Images**: GET `/images/`
+- **Retrieve Image**: GET `/images/{image_id}/`
+- **Delete Image**: DELETE `/images/{image_id}/`
 
 ## Authentication
 
