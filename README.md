@@ -8,9 +8,7 @@ This Django app serves as an API for handling multiple image uploads.
 2. **serializers.py**: Contains serializer classes to convert model instances into JSON representations.
 3. **views.py**: Defines API view functions for handling image upload, retrieval, listing, and deletion.
 4. **urls.py**: Specifies URL patterns for accessing API endpoints.
-5. **permissions.py**: Includes custom permission classes for controlling access to API endpoints.
-6. **tests.py**: Contains unit tests for testing API endpoints.
-7. **migrations/**: Directory containing database migration files for image-related models.
+5. **migrations/**: Directory containing database migration files for image-related models.
 
 ## API Endpoints
 
