@@ -54,7 +54,7 @@ API endpoints require authentication for access. You need to include an authenti
 
 6. **Access the API**
 
-   Use tools like cURL, Postman, or any HTTP client to interact with the API endpoints.
+   Use tools like cURL, Swagger, Postman, or any HTTP client to interact with the API endpoints.
 
 ## Contributing
 
